@@ -1,4 +1,4 @@
 asteca.github.io
 ================
 
-Site for the ASteCA package.
+Redirect to Read the Docs
