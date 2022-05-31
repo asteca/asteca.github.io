@@ -4,8 +4,8 @@ Input data files
 There are two types of required input files: the ``asteca.ini`` general input
 parameters file, and the file that contains the cluster data.
 
-The former contains the parameters used to run all the functions included within
-**ASteCA**; it is included with the package.
+The former contains the parameters used to run all the functions in
+**ASteCA**, and it is included with the package.
 
 The latter is provided by the user and it needs to be formatted such that it can
 be loaded by the `pandas.read_csv()
