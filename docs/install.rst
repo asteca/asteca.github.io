@@ -3,8 +3,7 @@
 Installation
 ============
 
-The code has been tested with the latest release of `Python`_ available at the
-time (3.9.12). The following packages are required to run **ASteCA**:
+The following packages are required to run **ASteCA**:
 `pandas`_, `astropy`_, `sciPy`_, `numpy`_, `matplotlib`_, and `ptemcee`_.
 The `emcee`_ and `corner.py`_ packages are optional, although some functions
 and plots will not work without them.
@@ -20,12 +19,6 @@ and plots will not work without them.
 .. _emcee: https://github.com/dfm/emcee/
 .. _corner.py: https://corner.readthedocs.io/en/latest/
 
-
-
-.. _sect-anaconda:
-
-Working environment
--------------------
 
 We use the `conda`_ package and environment manager to install all the necessary
 dependencies to run **ASteCA** in an isolated Python environment. To install
