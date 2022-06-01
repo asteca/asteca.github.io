@@ -77,7 +77,7 @@ conda,  follow these steps:
 Download
 --------
 
-The latest packaged release can be downloaded `from Github`_.
+The latest packaged release must be `downloaded from Github`_.
 After downloading, extract the compressed file wherever you want
 the code to exist. Alternatively the entire project can be cloned via `git`_
 with (Linux command):
@@ -104,5 +104,5 @@ a few minutes.
 
 
 
-.. _from Github: https://github.com/Gabriel-p/asteca/releases
+.. _downloaded from Github: https://github.com/asteca/asteca/releases/latest
 .. _git: http://git-scm.com/
