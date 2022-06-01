@@ -78,4 +78,4 @@ and referenced using the following BibTeX entry:
 Changelog
 ---------
 
-.. include:: ../../ASteCA/CHANGELOG.rst
+.. include:: CHANGELOG.rst
