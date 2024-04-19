@@ -1,5 +1,3 @@
-ASteCA-Docs
-===========
 
-Documentation for the [ASteCA](http://asteca.github.io) package.
+Re-direct to https://asteca.readthedocs.io
 
